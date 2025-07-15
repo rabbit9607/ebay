@@ -13,7 +13,7 @@
 // @license      MIT
 // ==/UserScript==
 
-// 如果DOMContentLoaded已经触发，立即执行
+// 隐藏
 if (document.readyState !== 'loading') {
     document.documentElement.style.cssText = 'opacity: 0 !important; transition: opacity 0.01s !important;';
 }
