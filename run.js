@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ebay信息替换
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  修改页面昵称显示
 // @author       rabbit9607
 // @match        https://www.ebay.com/*
